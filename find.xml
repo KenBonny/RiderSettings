@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*Controller.cs" />
+    <option name="customScope" value="Selected Files And Folders" />
+    <option name="defaultScopeName" value="Selected Files And Folders" />
+    <option name="SEARCH_SCOPE" value="Selected Files And Folders" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -17,7 +17,7 @@
     <mask>*.xaml</mask>
     <mask>*.html</mask>
     <mask>*.sql</mask>
-    <mask>*.cs</mask>
     <mask>*Controller.cs</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
