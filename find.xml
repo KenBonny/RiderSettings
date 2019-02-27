@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -14,11 +15,11 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*</mask>
-    <mask>*.ts</mask>
     <mask>*.xaml</mask>
     <mask>*.sql</mask>
     <mask>*Controller.cs</mask>
     <mask>*.cs</mask>
     <mask>*.html</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
